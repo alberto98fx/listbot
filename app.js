@@ -1,6 +1,4 @@
 var TelegramBot = require('node-telegram-bot-api');
-var firebase = require("firebase");
-
 var token = '246332843:AAGEehkw7lLxaKp1yuBBney0HTu-hf67t4E';
 var bot = new TelegramBot(token, {polling: true});
 
