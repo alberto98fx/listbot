@@ -15,6 +15,7 @@ bot.onText(/\/start/, function(msg, match) {
   if (user == undefined) {
     user = "all";
   }
+
   output = "hey " + user + "! this is a list bot, of sorts. \
   to use this list bot, type /add [item], /delete [index of item], \
   /clear, /changeListName [new list name], /peek";
