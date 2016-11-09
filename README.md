@@ -1,7 +1,7 @@
 # listbot
 telegram list bot
 
-<img src="https://github.com/ashleytqy/listbot/blob/master/img/1.png" alt="Drawing" style="width: 50px;"/>
+<img src="https://github.com/ashleytqy/listbot/blob/master/img/1.png" alt="Drawing" style="width: 10px; height: auto;"/>
 ![image of listbot1](https://github.com/ashleytqy/listbot/blob/master/img/1.png) ![image of listbot2](https://github.com/ashleytqy/listbot/blob/master/img/2.png)
 
 ## getting API keys
