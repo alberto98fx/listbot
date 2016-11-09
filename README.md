@@ -1,11 +1,11 @@
 # listbot
 telegram list bot
 
-#getting API keys
+## getting API keys
 - [Telegram Bot key](https://core.telegram.org/bots/api)
 - [Firebase key](https://console.firebase.google.com/)
 
-##run on local server
+## run on local server
 ```
 npm start
 ```
