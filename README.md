@@ -1,7 +1,7 @@
 # listbot
 telegram list bot
 
-![image of listbot](https://github.com/ashleytqy/listbot/blob/master/img/1.png)
+![image of listbot1](https://github.com/ashleytqy/listbot/blob/master/img/1.png) ![image of listbot2](https://github.com/ashleytqy/listbot/blob/master/img/2.png)
 
 ## getting API keys
 - [Telegram Bot key](https://core.telegram.org/bots/api)
