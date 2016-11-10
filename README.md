@@ -4,7 +4,7 @@ telegram list bot
 <img src="https://github.com/ashleytqy/listbot/blob/master/img/1.PNG" height="500px"/>
 <img src="https://github.com/ashleytqy/listbot/blob/master/img/2.PNG" height="500px"/>
 
-## 🔧functions
+## 🔧 functions
 - /start
 - /add [item]
 - /delete [index]
