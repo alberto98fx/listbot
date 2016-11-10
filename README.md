@@ -5,11 +5,11 @@ telegram list bot
 <img src="https://github.com/ashleytqy/listbot/blob/master/img/2.png" height="250px"/>
 
 ## functions
-#### /start
-#### /add [item]
-#### /delete [index]
-#### /peek
-#### / clear
+- /start
+- /add [item]
+- /delete [index]
+- /peek
+- / clear
  
 ## getting API keys
 - [Telegram Bot key](https://core.telegram.org/bots#3-how-do-i-create-a-bot)
