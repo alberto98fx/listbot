@@ -19,7 +19,7 @@ telegram list bot
 
 ## run on local server
 ```
-npm start
+npm install
 ```
 ```
 node app.js
