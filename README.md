@@ -1,8 +1,8 @@
 # listbot
 telegram list bot
 
-<img src="https://github.com/ashleytqy/listbot/blob/master/img/1.png" height="250px"/>
-<img src="https://github.com/ashleytqy/listbot/blob/master/img/2.png" height="250px"/>
+<img src="https://github.com/ashleytqy/listbot/blob/master/img/1.PNG" height="250px"/>
+<img src="https://github.com/ashleytqy/listbot/blob/master/img/2.PNG" height="250px"/>
 
 ## functions
 - /start
