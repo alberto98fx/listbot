@@ -5,7 +5,7 @@ telegram list bot
 <img src="https://github.com/ashleytqy/listbot/blob/master/img/2.PNG" height="500px"/>
 
 ## 🤔 why listbot?
-I live in a dorm with four other suite mates and whenever we buy groceries for the suite, we would list down the things to get in our chat group. When we wanted to add on to the list, we would have to copy the whole list and then add a new item on it. Sometimes, we might miss some items that were added while we were typing. So hopefully this bot helps with similar problem!
+I live in a dorm with four other suite mates and whenever we buy groceries for the suite, we would list down the things to get in our chat group. Whenever we want to add on to the list, we would have to copy the whole list and then add a new item on it. Sometimes, we might miss some items that were added while we were typing. So hopefully this bot helps with similar problem!
 
 
 ## 🔧 functions
