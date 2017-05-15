@@ -13,7 +13,7 @@ I live in a dorm with four other suite mates and whenever we buy groceries for t
 - /add [item]
 - /delete [index]
 - /peek
-- / clear
+- /clear
  
 ## 🔑 getting API keys
 - [Telegram Bot key](https://core.telegram.org/bots#3-how-do-i-create-a-bot)
